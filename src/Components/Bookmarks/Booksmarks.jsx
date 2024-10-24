@@ -12,8 +12,8 @@ const Booksmarks = ({ bookmarks }) => {
   );
 };
 
-Booksmarks.propTypes = {
-    bookmarks: PropTypes.array
-};
+// Booksmarks.propTypes = {
+//     bookmarks: PropTypes.array
+// };
 
 export default Booksmarks;
